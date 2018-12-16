@@ -1,4 +1,4 @@
-## condvis: Conditional Visualisation for Statistical Models  
+## [condvis: Conditional Visualisation for Statistical Models](http://www.citeulike.org/user/guhjy/article/14665769)
 
 [![BuildStatus](https://travis-ci.org/markajoc/condvis.svg?branch=devel)](https://travis-ci.org/markajoc/condvis)
 [![License](http://img.shields.io/badge/license-GPL%20%28%3E=%202%29-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-2.0.html)
